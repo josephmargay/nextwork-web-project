@@ -5,5 +5,7 @@
 
 <p>This is my NextWork web application working!</p>
 
+<p>New update!</p>
+
 </body>
 </html>
